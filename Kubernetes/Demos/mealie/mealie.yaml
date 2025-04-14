@@ -1,0 +1,34 @@
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;43r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[43;1H"/tmp/kubectl1.32.3-edit-2064282748.yaml"<p/kubectl1.32.3-edit-2064282748.yaml" 32L, 732B[1;1H[34m# Please edit the object below. Lines beginning with a '#' will be  [2;1Hignored,
+# and an empty file will abort the edit. If an error occurs while ss[4;1Having this file will be
+# reopened with the relevant failures.
+#[m
+[36mapiVersion[m[35m:[m v1
+[36mkind[m[35m:[m Service
+[36mmetadata[m[35m:[m
+  [36mcreationTimestamp[m[35m:[m [31m"2025-04-13T02:48:37Z"[m
+  [36mlabels[m[35m:[m
+    [36mapp[m[35m:[m mealie
+  [36mname[m[35m:[m mealie
+  [36mnamespace[m[35m:[m mealie
+  [36mresourceVersion[m[35m:[m [31m"47087"[m
+  [36muid[m[35m:[m 16f0ecb8-cf50-45d0-8acf-5d7cf03d07dd
+[36mspec[m[35m:[m
+  [36mclusterIP[m[35m:[m 10.43.172.42
+  [36mclusterIPs[m[35m:[m
+  [38;5;130m- [m10.43.172.42
+  [36minternalTrafficPolicy[m[35m:[m Cluster
+  [36mipFamilies[m[35m:[m
+  [38;5;130m- [mIPv4
+  [36mipFamilyPolicy[m[35m:[m SingleStack
+  [36mports[m[35m:[m
+  [38;5;130m- [m[36mport[m[35m:[m [31m9000[m
+    [36mprotocol[m[35m:[m TCP
+    [36mtargetPort[m[35m:[m [31m9000[m
+  [36mselector[m[35m:[m
+    [36mapp[m[35m:[m mealie
+  [36msessionAffinity[m[35m:[m None
+  [36mtype[m[35m:[m ClusterIP
+[36mstatus[m[35m:[m
+  [36mloadBalancer[m[35m:[m [35m{}[m
+[94m~                                                                  [36;1H~                                                                  [37;1H~                                                                  [38;1H~                                                                  [39;1H~                                                                  [40;1H~                                                                  [41;1H~                                                                  [42;1H~                                                                  [m[43;50H1,1[11CAll[1;1H[?25h[?4m[43;1H
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[>4;m
